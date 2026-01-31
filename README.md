@@ -46,6 +46,10 @@ Extract date and amounts from money transfer receipt PDFs using OpenAI Vision an
 
 3. Output is written to `receipt_data.csv` (date, amounts, total, filename), sorted by date.
 
+## Cost
+
+Processing uses the OpenAI Vision API (gpt-4o). It costs approximately **$0.004 USD per receipt**.
+
 ## Output
 
 See `receipt_data_example.csv` for an example of the generated CSV.
