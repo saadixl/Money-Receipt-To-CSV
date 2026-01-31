@@ -1,0 +1,4 @@
+receipts
+.DS_Store
+.env
+receipt_data.csv
